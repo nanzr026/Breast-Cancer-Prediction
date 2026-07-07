@@ -67,12 +67,12 @@ Each feature is available as:
 ```
 Breast-Cancer-Prediction/
 │
-├── images/
-│   ├── confusion_matrix.png
-│   ├── correlation_heatmap.png
-│   ├── diagnosis_count.png
-│   ├── feature_imp.png
-│   └── model_comp.png
+├
+│── confusion_matrix.png
+│── correlation_heatmap.png
+│── diagnosis_count.png
+│── feature_imp.png
+│── model_comp.png
 │
 ├── breast-cancer.csv
 ├── Cancer_prediction.ipynb
@@ -119,33 +119,31 @@ Prediction
 
 ### Diagnosis Distribution
 
-![Diagnosis Count](images/diagnosis_count.png)
+![Diagnosis Distribution](diagnosis_count.png)
 
 ---
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
 ### Feature Importance (Random Forest)
 
-![Feature Importance](images/feature_imp.png)
+![Feature Importance](feature_imp.png)
 
 ---
 
 ### Model Comparison
 
-![Model Comparison](images/model_comp.png)
+![Model Comparison](model_comp.png)
 
 ---
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
-
----
+![Confusion Matrix](confusion_matrix.png)
 
 ## 🤖 Machine Learning Models
 
